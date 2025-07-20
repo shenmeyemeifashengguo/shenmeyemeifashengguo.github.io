@@ -21,10 +21,6 @@ I am a Ph.D. candidate (enrolled in 2024) at the School of Computer Science and 
 
 If you are interested in my work or potential collaborations, please feel free to reach out to me via dlutbzw@mail.dlut.edu.cn.
 
-# 🔥 News
-- *2022.05*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
 <!-- for example -->
@@ -42,14 +38,11 @@ If you are interested in my work or potential collaborations, please feel free t
 # 🧑‍🔬 Services
 ## Organizer  
 - [CCL25-Eval Task 10: Fine-grained Chinese Hate Speech Detection Evaluation.](https://tianchi.aliyun.com/competition/entrance/532298)
-- [CCAC24-Eval Task3: ](https://github.com/DUTIR-Emotion-Group/CCAC2025-task3)
+- [CCAC24-Eval Task3: Yonkoma Manga Understanding Evaluation.](https://github.com/DUTIR-Emotion-Group/CCAC2025-task3)
 
 # 🎖 Honors and Awards
 ## Technique Evaluation
-- 2024.07, CCAC2024 Task1 Track1: Few-shot User Query Security Detection, _Chinese Information Processing Society of China_, **The 2nd Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
-- 2024.07, CCAC2024 Task1 Track2: Few-shot User Model Response Detection, _Chinese Information Processing Society of China_, **The 1st Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
-- 2022.05, NLPCC2022 Task5 Track1: Multi-label Classification Model for English Scientific Literature, _China Computer Federation_, **The 2nd Place** in 40+ Teams. [[task](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask5.Guideline.pdf)] [[report](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)]
-- 2020.09, CCF-BDCI2020: E-commerce User Purchasing Behavior Prediction, _China Computer Federation_, **The 5th Place** in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
+- 2024.07, CCAC2024 Task5 Track1: Chinese Sarcasm Detection, _Chinese Information Processing Society of China_, **The 2nd Place** in 30+ Teams. [[task](https://github.com/pjzj220113/chinese-sarcasm-calculation/tree/main)]
 
 ## Other Awards
 - Langchao Scholarship. Huawei Technologies Co., Ltd. & Dalian University of Technology. *2024*.
