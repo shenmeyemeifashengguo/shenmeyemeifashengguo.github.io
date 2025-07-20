@@ -17,42 +17,44 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. candidate (enrolled in 2024) at the School of Computer Science and Technology, Dalian University of Technology (DUT), advised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ) and [Prof. Liang Yang](https://scholar.google.com/citations?hl=zh-CN&user=AIug9aEAAAAJ). My research interests lie in natural language processing, text mining, and fine-grained sentiment analysis. I am particularly fascinated by the application of cognitive linguistics in fine-grained sentiment analysis to enhance interpretability and performance.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+If you are interested in my work or potential collaborations, please feel free to reach out to me via dlutbzw@mail.dlut.edu.cn.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.05*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- for example -->
+<!-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span><span style="color:red">(Oral)</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://aclanthology.org/2024.acl-long.5.pdf), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate) -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 Findings</span> [STATE ToxiCN: A Benchmark for Span-level Target-Aware Toxicity Extraction in Chinese Hate Speech Detection](https://arxiv.org/html/2501.15451v3), **Zewen Bai**, Shengdi Yin, Junyu Lu, Jingjie Zeng, Haohao Zhu, Yuanyuan Sun, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Knowledge-Based Systems</span> [Intuition meets analytics: Reasoning implicit aspect-based sentiment quadruplets with a dual-system framework](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005805), **Zewen Bai**, Yuanyuan Sun, Changrong Min, Junyu Lu, Haohao Zhu, Liang Yang, Hongfei Lin.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2022.09 - 2024.06*, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2017.09 - 2022.06*, B.Sc, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🧑‍🔬 Services
+## Organizer  
+- [CCL25-Eval Task 10: Fine-grained Chinese Hate Speech Detection Evaluation.](https://tianchi.aliyun.com/competition/entrance/532298)
+- [CCAC24-Eval Task3: ](https://github.com/DUTIR-Emotion-Group/CCAC2025-task3)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Honors and Awards
+## Technique Evaluation
+- 2024.07, CCAC2024 Task1 Track1: Few-shot User Query Security Detection, _Chinese Information Processing Society of China_, **The 2nd Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
+- 2024.07, CCAC2024 Task1 Track2: Few-shot User Model Response Detection, _Chinese Information Processing Society of China_, **The 1st Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
+- 2022.05, NLPCC2022 Task5 Track1: Multi-label Classification Model for English Scientific Literature, _China Computer Federation_, **The 2nd Place** in 40+ Teams. [[task](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask5.Guideline.pdf)] [[report](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)]
+- 2020.09, CCF-BDCI2020: E-commerce User Purchasing Behavior Prediction, _China Computer Federation_, **The 5th Place** in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
+
+## Other Awards
+- Langchao Scholarship. Huawei Technologies Co., Ltd. & Dalian University of Technology. *2024*.
+
+# Visitors
+<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script> -->
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script>
