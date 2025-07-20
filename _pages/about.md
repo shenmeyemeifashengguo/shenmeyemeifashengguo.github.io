@@ -47,7 +47,3 @@ If you are interested in my work or potential collaborations, please feel free t
 ## Other Awards
 - Langchao Scholarship. Huawei Technologies Co., Ltd. & Dalian University of Technology. *2024*.
 
-# Visitors
-<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script> -->
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script>
