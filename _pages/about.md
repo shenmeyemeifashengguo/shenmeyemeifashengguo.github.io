@@ -42,7 +42,7 @@ If you are interested in my work or potential collaborations, please feel free t
 
 # 🎖 Honors and Awards
 ## Technique Evaluation
-- 2024.07, CCAC2024 Task5 Track1: Chinese Sarcasm Detection, _Chinese Information Processing Society of China_, **The 2nd Place** in 30+ Teams. [[task](https://github.com/pjzj220113/chinese-sarcasm-calculation/tree/main)]
+- 2024.07, CCAC2024 Task5: Chinese Sarcasm Detection, _Chinese Information Processing Society of China_, **The 2nd Place** in 30+ Teams. [[task](https://github.com/pjzj220113/chinese-sarcasm-calculation/tree/main)]
 
 ## Other Awards
 - Langchao Scholarship. Huawei Technologies Co., Ltd. & Dalian University of Technology. *2024*.
