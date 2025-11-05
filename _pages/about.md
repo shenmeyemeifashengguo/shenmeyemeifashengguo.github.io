@@ -48,4 +48,4 @@ If you are interested in my work or potential collaborations, please feel free t
 
 ## Other Awards
 - Langchao Scholarship. Langchao Technologies Co., Ltd. & Dalian University of Technology. *2024*.
-
+- Weichai Power Scholarship. Weichai Power Co., Ltd. & Dalian University of Technology. *2025*.
