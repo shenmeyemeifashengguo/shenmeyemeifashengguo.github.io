@@ -28,11 +28,11 @@ If you are interested in my work or potential collaborations, please feel free t
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 Findings</span> [STATE ToxiCN: A Benchmark for Span-level Target-Aware Toxicity Extraction in Chinese Hate Speech Detection](https://aclanthology.org/2025.findings-acl.532/), **Zewen Bai**, Liang Yang, Shengdi Yin, Junyu Lu, Jingjie Zeng, Haohao Zhu, Yuanyuan Sun, Hongfei Lin. [[Repo]](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)
 
-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">TAFFC</span> [DeMeme: A Semantic Decompression Framework for Fine-Grained Harmful Meme Detection (Coming soon)], **Zewen Bai**, Ruiyang Jin, Kai Ma, Borjigin Tala, Junyu Lu, Shengdi Yin, Liang Yang, Yuanyuan Sun, Hongfei Lin. [[Repo]](https://github.com/shenmeyemeifashengguo/DeMeme)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">TAFFC</span> [DeMeme: A Semantic Decompression Framework for Fine-Grained Harmful Meme Detection (Coming soon)], **Zewen Bai**, Ruiyang Jin, Kai Ma, Borjigin Tala, Junyu Lu, Shengdi Yin, Liang Yang, Yuanyuan Sun, Hongfei Lin. [[Repo]](https://github.com/shenmeyemeifashengguo/DeMeme)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Knowledge-Based Systems</span> [Intuition meets analytics: Reasoning implicit aspect-based sentiment quadruplets with a dual-system framework](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005805), **Zewen Bai**, Yuanyuan Sun, Changrong Min, Junyu Lu, Haohao Zhu, Liang Yang, Hongfei Lin.
 
-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">中文信息学报</span> [基于双系统推理框架的法律判决研究], 尹圣迪*, **白泽文***, 杨亮, 林鸿飞.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">中文信息学报</span> [基于双系统推理框架的法律判决研究], 尹圣迪*, **白泽文***, 杨亮, 林鸿飞.
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">arxiv</span> [Fine-Grained Chinese Hate Speech Understanding: Span-Level Resources, Coded Term Lexicon, and Enhanced Detection Frameworks](https://arxiv.org/abs/2507.11292), **Zewen Bai**, Liang Yang, Shengdi Yin, Yuanyuan Sun, Hongfei Lin.
 
